@@ -1,0 +1,12 @@
+Name: americano, Time: 2022-05-26 08:06:22.632484, Cost: 249
+Name: latte, Time: 2022-05-26 08:06:32.514588, Cost: 279
+Name: cappuccino, Time: 2022-05-26 08:06:47.701280, Cost: 299
+Name: espresso, Time: 2022-05-26 08:08:08.305249, Cost: 219
+Name: americano, Time: 2022-05-26 08:08:40.981521, Cost: 249
+Name: americano, Time: 2022-05-26 08:13:45.423969, Cost: 249
+Name: americano, Time: 2022-05-26 08:15:20.132322, Cost: 249
+Name: americano, Time: 2022-05-26 08:16:16.478592, Cost: 249
+Name: americano, Time: 2022-05-26 08:36:13.268628, Cost: 249
+Name: americano, Time: 2022-05-26 09:11:14.215702, Cost: 249
+Name: americano, Time: 2022-05-26 09:22:55.385781, Cost: 249
+Name: cappuccino, Time: 2022-05-26 09:23:02.242116, Cost: 299
